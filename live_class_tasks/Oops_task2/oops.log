@@ -1,0 +1,701 @@
+INFO 2022-07-16 14:06:55,607 Logging is enabled
+INFO 2022-07-16 14:06:55,608 Class is invoked
+INFO 2022-07-16 14:06:55,608 class is invoked
+INFO 2022-07-16 14:06:55,608 class is invoked
+INFO 2022-07-16 14:08:12,536 Logging is enabled
+INFO 2022-07-16 14:08:12,540 Class is invoked
+INFO 2022-07-16 14:08:12,540 class is invoked
+INFO 2022-07-16 14:08:12,540 class is invoked
+INFO 2022-07-16 14:08:12,541 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:08:12,541 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:08:12,541 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:08:12,541 Function execution success
+INFO 2022-07-16 14:08:12,541 Function completed
+INFO 2022-07-16 14:08:12,542 Function completed
+INFO 2022-07-16 14:08:12,542 Function execution success
+INFO 2022-07-16 14:08:12,542 The new value isBig query table
+INFO 2022-07-16 14:08:12,542 function completed success
+INFO 2022-07-16 14:08:12,542 Function execution success
+INFO 2022-07-16 14:12:14,702 Logging is enabled
+INFO 2022-07-16 14:12:14,703 Class is invoked
+INFO 2022-07-16 14:12:14,703 class is invoked
+INFO 2022-07-16 14:12:14,703 class is invoked
+INFO 2022-07-16 14:12:14,703 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:12:14,703 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:12:14,704 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:12:14,704 Function execution success
+INFO 2022-07-16 14:12:14,704 Function completed
+INFO 2022-07-16 14:12:14,704 Function completed
+INFO 2022-07-16 14:12:14,704 Function execution success
+INFO 2022-07-16 14:12:14,704 The new value isBig query table
+INFO 2022-07-16 14:12:14,704 function completed success
+INFO 2022-07-16 14:12:14,704 Function execution success
+INFO 2022-07-16 14:12:29,636 Logging is enabled
+INFO 2022-07-16 14:12:29,638 Class is invoked
+INFO 2022-07-16 14:12:29,638 class is invoked
+INFO 2022-07-16 14:12:29,638 class is invoked
+INFO 2022-07-16 14:12:29,638 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:12:29,638 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:12:29,638 The input value is declared in the functionData science,Machine Learning and statistics
+ERROR 2022-07-16 14:12:29,638 ineuron_partnered_institutions.__init__() missing 1 required positional argument: 'institution4'
+INFO 2022-07-16 14:12:29,638 Function execution success
+INFO 2022-07-16 14:12:29,639 Function completed
+INFO 2022-07-16 14:12:29,639 Function completed
+INFO 2022-07-16 14:12:29,639 Function execution success
+INFO 2022-07-16 14:12:29,639 The new value isBig query table
+INFO 2022-07-16 14:12:29,639 function completed success
+INFO 2022-07-16 14:12:29,639 Function execution success
+INFO 2022-07-16 14:13:40,558 Logging is enabled
+INFO 2022-07-16 14:13:40,559 Class is invoked
+INFO 2022-07-16 14:13:40,559 class is invoked
+INFO 2022-07-16 14:13:40,559 class is invoked
+INFO 2022-07-16 14:13:40,560 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:13:40,560 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:13:40,560 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:13:40,560 Function execution success
+INFO 2022-07-16 14:13:40,560 Function completed
+INFO 2022-07-16 14:13:40,560 Function completed
+INFO 2022-07-16 14:13:40,561 Function execution success
+INFO 2022-07-16 14:13:40,562 The new value isBig query table
+INFO 2022-07-16 14:13:40,562 function completed success
+INFO 2022-07-16 14:13:40,562 Function execution success
+INFO 2022-07-16 14:13:48,259 Logging is enabled
+INFO 2022-07-16 14:13:48,260 Class is invoked
+INFO 2022-07-16 14:13:48,260 class is invoked
+INFO 2022-07-16 14:13:48,260 class is invoked
+INFO 2022-07-16 14:13:48,261 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:13:48,261 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:13:48,261 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:13:48,261 Function execution success
+INFO 2022-07-16 14:13:48,261 Function completed
+INFO 2022-07-16 14:13:48,261 Function completed
+ERROR 2022-07-16 14:13:48,261 'ineuron_courses' object has no attribute '_ineuron_courses_course3'
+INFO 2022-07-16 14:19:30,787 Logging is enabled
+INFO 2022-07-16 14:19:30,789 Class is invoked
+INFO 2022-07-16 14:19:30,789 class is invoked
+INFO 2022-07-16 14:19:30,789 class is invoked
+INFO 2022-07-16 14:19:30,789 Class is invoked
+INFO 2022-07-16 14:19:30,789 Class is invoked
+INFO 2022-07-16 14:19:30,789 Class is invoked
+INFO 2022-07-16 14:19:30,789 Class is invoked
+INFO 2022-07-16 14:19:30,790 Class is invoked
+INFO 2022-07-16 14:19:30,790 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:19:30,790 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:19:30,790 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:19:30,790 Input values are added
+INFO 2022-07-16 14:19:30,790 Input values added
+INFO 2022-07-16 14:19:30,790 input values added
+INFO 2022-07-16 14:19:30,790 Input values added
+INFO 2022-07-16 14:19:30,790 Input values added
+INFO 2022-07-16 14:19:30,790 Function execution success
+INFO 2022-07-16 14:19:30,791 Function completed
+INFO 2022-07-16 14:19:30,791 Function completed
+INFO 2022-07-16 14:19:30,791 Function execution success
+INFO 2022-07-16 14:19:30,791 The new value isBig query table
+INFO 2022-07-16 14:19:30,791 function completed success
+INFO 2022-07-16 14:19:30,791 Function execution success
+INFO 2022-07-16 14:26:30,832 Logging is enabled
+INFO 2022-07-16 14:26:30,833 Class is invoked
+INFO 2022-07-16 14:26:30,833 Class is invoked
+INFO 2022-07-16 14:26:30,834 Class is invoked
+INFO 2022-07-16 14:26:30,834 class is invoked
+INFO 2022-07-16 14:26:30,834 class is invoked
+INFO 2022-07-16 14:26:30,835 Class is invoked
+INFO 2022-07-16 14:26:30,835 Class is invoked
+INFO 2022-07-16 14:26:30,835 Class is invoked
+INFO 2022-07-16 14:26:30,835 Class is invoked
+INFO 2022-07-16 14:26:30,835 Class is invoked
+INFO 2022-07-16 14:26:30,835 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:26:30,835 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:26:30,835 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:26:30,836 Input values are added
+INFO 2022-07-16 14:26:30,836 Input values added
+INFO 2022-07-16 14:26:30,836 input values added
+INFO 2022-07-16 14:26:30,836 Input values added
+INFO 2022-07-16 14:26:30,836 Input values added
+INFO 2022-07-16 14:26:30,836 Input values added
+INFO 2022-07-16 14:26:30,836 Input values added
+INFO 2022-07-16 14:26:30,836 Function execution success
+INFO 2022-07-16 14:26:30,837 Function completed
+INFO 2022-07-16 14:26:30,837 Function completed
+INFO 2022-07-16 14:26:30,837 Function execution success
+INFO 2022-07-16 14:26:30,837 The new value isBig query table
+INFO 2022-07-16 14:26:30,837 function completed success
+INFO 2022-07-16 14:26:30,837 Function execution success
+INFO 2022-07-16 14:26:30,838 Function execution success
+INFO 2022-07-16 14:26:30,838 Function completed
+ERROR 2022-07-16 14:26:30,838 'ineuron_affiliates_market_courses' object has no attribute '_ineuron_courses__course3'
+INFO 2022-07-16 14:28:13,249 Logging is enabled
+INFO 2022-07-16 14:28:13,249 Class is invoked
+INFO 2022-07-16 14:28:13,249 Class is invoked
+INFO 2022-07-16 14:28:13,250 Class is invoked
+INFO 2022-07-16 14:28:13,250 class is invoked
+INFO 2022-07-16 14:28:13,250 class is invoked
+INFO 2022-07-16 14:28:13,250 Class is invoked
+INFO 2022-07-16 14:28:13,250 Class is invoked
+INFO 2022-07-16 14:28:13,250 Class is invoked
+INFO 2022-07-16 14:28:13,250 Class is invoked
+INFO 2022-07-16 14:28:13,250 Class is invoked
+INFO 2022-07-16 14:28:13,251 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:28:13,251 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:28:13,251 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:28:13,251 Input values are added
+INFO 2022-07-16 14:28:13,251 Input values added
+INFO 2022-07-16 14:28:13,251 input values added
+INFO 2022-07-16 14:28:13,251 Input values added
+INFO 2022-07-16 14:28:13,251 Input values added
+INFO 2022-07-16 14:28:13,251 Input values added
+INFO 2022-07-16 14:28:13,251 Input values added
+INFO 2022-07-16 14:28:13,251 Function execution success
+INFO 2022-07-16 14:28:13,251 Function completed
+INFO 2022-07-16 14:28:13,252 Function completed
+INFO 2022-07-16 14:28:13,252 Function execution success
+INFO 2022-07-16 14:28:13,252 The new value isBig query table
+INFO 2022-07-16 14:28:13,252 function completed success
+INFO 2022-07-16 14:28:13,252 Function execution success
+INFO 2022-07-16 14:28:13,252 Function execution success
+INFO 2022-07-16 14:28:13,252 Function completed
+INFO 2022-07-16 14:28:13,252 Function completed
+ERROR 2022-07-16 14:28:13,252 'ineuron_affiliates_market_courses' object has no attribute 'k'
+INFO 2022-07-16 14:29:29,326 Logging is enabled
+INFO 2022-07-16 14:29:29,326 Class is invoked
+INFO 2022-07-16 14:29:29,327 Class is invoked
+INFO 2022-07-16 14:29:29,328 Class is invoked
+INFO 2022-07-16 14:29:29,328 class is invoked
+INFO 2022-07-16 14:29:29,328 class is invoked
+INFO 2022-07-16 14:29:29,328 Class is invoked
+INFO 2022-07-16 14:29:29,329 Class is invoked
+INFO 2022-07-16 14:29:29,329 Class is invoked
+INFO 2022-07-16 14:29:29,329 Class is invoked
+INFO 2022-07-16 14:29:29,329 Class is invoked
+INFO 2022-07-16 14:29:29,329 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:29:29,329 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:29:29,330 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:29:29,330 Input values are added
+INFO 2022-07-16 14:29:29,330 Input values added
+INFO 2022-07-16 14:29:29,330 input values added
+INFO 2022-07-16 14:29:29,330 Input values added
+INFO 2022-07-16 14:29:29,330 Input values added
+INFO 2022-07-16 14:29:29,330 Input values added
+INFO 2022-07-16 14:29:29,331 Input values added
+INFO 2022-07-16 14:29:29,331 Function execution success
+INFO 2022-07-16 14:29:29,331 Function completed
+INFO 2022-07-16 14:29:29,331 Function completed
+INFO 2022-07-16 14:29:29,331 Function execution success
+INFO 2022-07-16 14:29:29,331 The new value isBig query table
+INFO 2022-07-16 14:29:29,331 function completed success
+INFO 2022-07-16 14:29:29,331 Function execution success
+INFO 2022-07-16 14:29:29,332 Function execution success
+INFO 2022-07-16 14:29:29,332 Function completed
+INFO 2022-07-16 14:29:29,332 Function completed
+ERROR 2022-07-16 14:29:29,332 'ineuron_affiliates_market_courses' object has no attribute 'k'
+INFO 2022-07-16 14:30:56,602 Logging is enabled
+INFO 2022-07-16 14:30:56,602 Class is invoked
+INFO 2022-07-16 14:30:56,603 Class is invoked
+INFO 2022-07-16 14:30:56,611 Class is invoked
+INFO 2022-07-16 14:30:56,611 class is invoked
+INFO 2022-07-16 14:30:56,611 class is invoked
+INFO 2022-07-16 14:30:56,611 Class is invoked
+INFO 2022-07-16 14:30:56,611 Class is invoked
+INFO 2022-07-16 14:30:56,612 Class is invoked
+INFO 2022-07-16 14:30:56,612 Class is invoked
+INFO 2022-07-16 14:30:56,612 Class is invoked
+INFO 2022-07-16 14:30:56,612 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:30:56,612 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:30:56,613 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:30:56,613 Input values are added
+INFO 2022-07-16 14:30:56,613 Input values added
+INFO 2022-07-16 14:30:56,613 input values added
+INFO 2022-07-16 14:30:56,613 Input values added
+INFO 2022-07-16 14:30:56,613 Input values added
+INFO 2022-07-16 14:30:56,613 Input values added
+INFO 2022-07-16 14:30:56,613 Input values added
+INFO 2022-07-16 14:30:56,614 Function execution success
+INFO 2022-07-16 14:30:56,614 Function completed
+INFO 2022-07-16 14:30:56,614 Function completed
+INFO 2022-07-16 14:30:56,614 Function execution success
+INFO 2022-07-16 14:30:56,614 The new value isBig query table
+INFO 2022-07-16 14:30:56,614 function completed success
+INFO 2022-07-16 14:30:56,615 Function execution success
+INFO 2022-07-16 14:30:56,615 Function execution success
+INFO 2022-07-16 14:30:56,615 Function completed
+INFO 2022-07-16 14:30:56,615 Function completed
+ERROR 2022-07-16 14:30:56,615 bad operand type for unary +: 'str'
+INFO 2022-07-16 14:31:25,858 Logging is enabled
+INFO 2022-07-16 14:31:25,859 Class is invoked
+INFO 2022-07-16 14:31:25,859 Class is invoked
+INFO 2022-07-16 14:31:25,866 Class is invoked
+INFO 2022-07-16 14:31:25,866 class is invoked
+INFO 2022-07-16 14:31:25,866 class is invoked
+INFO 2022-07-16 14:31:25,866 Class is invoked
+INFO 2022-07-16 14:31:25,866 Class is invoked
+INFO 2022-07-16 14:31:25,867 Class is invoked
+INFO 2022-07-16 14:31:25,867 Class is invoked
+INFO 2022-07-16 14:31:25,867 Class is invoked
+INFO 2022-07-16 14:31:25,867 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:31:25,867 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:31:25,867 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:31:25,868 Input values are added
+INFO 2022-07-16 14:31:25,868 Input values added
+INFO 2022-07-16 14:31:25,868 input values added
+INFO 2022-07-16 14:31:25,868 Input values added
+INFO 2022-07-16 14:31:25,868 Input values added
+INFO 2022-07-16 14:31:25,868 Input values added
+INFO 2022-07-16 14:31:25,868 Input values added
+INFO 2022-07-16 14:31:25,868 Function execution success
+INFO 2022-07-16 14:31:25,868 Function completed
+INFO 2022-07-16 14:31:25,868 Function completed
+INFO 2022-07-16 14:31:25,868 Function execution success
+INFO 2022-07-16 14:31:25,869 The new value isBig query table
+INFO 2022-07-16 14:31:25,869 function completed success
+INFO 2022-07-16 14:31:25,869 Function execution success
+INFO 2022-07-16 14:31:25,869 Function execution success
+INFO 2022-07-16 14:31:25,869 Function completed
+INFO 2022-07-16 14:31:25,869 Function completed
+INFO 2022-07-16 14:31:25,869 The number of courses in ineuron is121
+INFO 2022-07-16 14:31:25,869 Function execution success
+INFO 2022-07-16 14:31:25,869 Function execution success
+ERROR 2022-07-16 14:31:25,869 'ineuron_hackthon_companies' object has no attribute 'batch1'
+INFO 2022-07-16 14:33:49,932 Logging is enabled
+INFO 2022-07-16 14:33:49,932 Class is invoked
+INFO 2022-07-16 14:33:49,932 Class is invoked
+INFO 2022-07-16 14:33:49,933 Class is invoked
+INFO 2022-07-16 14:33:49,933 class is invoked
+INFO 2022-07-16 14:33:49,933 class is invoked
+INFO 2022-07-16 14:33:49,933 Class is invoked
+INFO 2022-07-16 14:33:49,933 Class is invoked
+INFO 2022-07-16 14:33:49,934 Class is invoked
+INFO 2022-07-16 14:33:49,934 Class is invoked
+INFO 2022-07-16 14:33:49,934 Class is invoked
+INFO 2022-07-16 14:33:49,934 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:33:49,934 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:33:49,934 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:33:49,934 Input values are added
+INFO 2022-07-16 14:33:49,934 Input values added
+INFO 2022-07-16 14:33:49,934 input values added
+INFO 2022-07-16 14:33:49,934 Input values added
+INFO 2022-07-16 14:33:49,935 Input values added
+INFO 2022-07-16 14:33:49,935 Input values added
+INFO 2022-07-16 14:33:49,935 Input values added
+INFO 2022-07-16 14:33:49,935 Function execution success
+INFO 2022-07-16 14:33:49,935 Function completed
+INFO 2022-07-16 14:33:49,935 Function completed
+INFO 2022-07-16 14:33:49,935 Function execution success
+INFO 2022-07-16 14:33:49,935 The new value isBig query table
+INFO 2022-07-16 14:33:49,935 function completed success
+INFO 2022-07-16 14:33:49,936 Function execution success
+INFO 2022-07-16 14:33:49,936 Function execution success
+INFO 2022-07-16 14:33:49,936 Function completed
+INFO 2022-07-16 14:33:49,936 Function completed
+INFO 2022-07-16 14:33:49,936 The number of courses in ineuron is121
+INFO 2022-07-16 14:33:49,936 Function execution success
+INFO 2022-07-16 14:33:49,936 Function execution success
+ERROR 2022-07-16 14:33:49,936 'ineuron_hackthon_companies' object has no attribute 'batch1'
+INFO 2022-07-16 14:34:12,189 Logging is enabled
+INFO 2022-07-16 14:34:12,190 Class is invoked
+INFO 2022-07-16 14:34:12,190 Class is invoked
+INFO 2022-07-16 14:34:12,191 Class is invoked
+INFO 2022-07-16 14:34:12,192 class is invoked
+INFO 2022-07-16 14:34:12,192 class is invoked
+INFO 2022-07-16 14:34:12,192 Class is invoked
+INFO 2022-07-16 14:34:12,192 Class is invoked
+INFO 2022-07-16 14:34:12,192 Class is invoked
+INFO 2022-07-16 14:34:12,192 Class is invoked
+INFO 2022-07-16 14:34:12,192 Class is invoked
+INFO 2022-07-16 14:34:12,192 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:12,192 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:12,192 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:12,192 Input values are added
+INFO 2022-07-16 14:34:12,192 Input values added
+INFO 2022-07-16 14:34:12,193 input values added
+INFO 2022-07-16 14:34:12,193 Input values added
+INFO 2022-07-16 14:34:12,193 Input values added
+INFO 2022-07-16 14:34:12,193 Input values added
+INFO 2022-07-16 14:34:12,193 Input values added
+INFO 2022-07-16 14:34:12,193 Function execution success
+INFO 2022-07-16 14:34:12,193 Function completed
+INFO 2022-07-16 14:34:12,193 Function completed
+INFO 2022-07-16 14:34:12,193 Function execution success
+INFO 2022-07-16 14:34:12,193 The new value isBig query table
+INFO 2022-07-16 14:34:12,193 function completed success
+INFO 2022-07-16 14:34:12,194 Function execution success
+INFO 2022-07-16 14:34:12,194 Function execution success
+INFO 2022-07-16 14:34:12,194 Function completed
+INFO 2022-07-16 14:34:12,194 Function completed
+INFO 2022-07-16 14:34:12,194 The number of courses in ineuron is121
+INFO 2022-07-16 14:34:12,194 Function execution success
+INFO 2022-07-16 14:34:12,194 Function execution success
+ERROR 2022-07-16 14:34:12,194 'ineuron_hackthon_companies' object has no attribute 'batch1'
+INFO 2022-07-16 14:34:21,425 Logging is enabled
+INFO 2022-07-16 14:34:21,425 Class is invoked
+INFO 2022-07-16 14:34:21,425 Class is invoked
+INFO 2022-07-16 14:34:21,426 Class is invoked
+INFO 2022-07-16 14:34:21,426 class is invoked
+INFO 2022-07-16 14:34:21,426 class is invoked
+INFO 2022-07-16 14:34:21,427 Class is invoked
+INFO 2022-07-16 14:34:21,427 Class is invoked
+INFO 2022-07-16 14:34:21,427 Class is invoked
+INFO 2022-07-16 14:34:21,427 Class is invoked
+INFO 2022-07-16 14:34:21,427 Class is invoked
+INFO 2022-07-16 14:34:21,427 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:21,427 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:21,427 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:21,427 Input values are added
+INFO 2022-07-16 14:34:21,427 Input values added
+INFO 2022-07-16 14:34:21,427 input values added
+INFO 2022-07-16 14:34:21,428 Input values added
+INFO 2022-07-16 14:34:21,428 Input values added
+INFO 2022-07-16 14:34:21,428 Input values added
+INFO 2022-07-16 14:34:21,428 Input values added
+INFO 2022-07-16 14:34:21,428 Function execution success
+INFO 2022-07-16 14:34:21,428 Function completed
+INFO 2022-07-16 14:34:21,428 Function completed
+INFO 2022-07-16 14:34:21,428 Function execution success
+INFO 2022-07-16 14:34:21,428 The new value isBig query table
+INFO 2022-07-16 14:34:21,428 function completed success
+INFO 2022-07-16 14:34:21,429 Function execution success
+INFO 2022-07-16 14:34:21,429 Function execution success
+INFO 2022-07-16 14:34:21,429 Function completed
+INFO 2022-07-16 14:34:21,430 Function completed
+INFO 2022-07-16 14:34:21,430 The number of courses in ineuron is121
+INFO 2022-07-16 14:34:21,430 Function execution success
+INFO 2022-07-16 14:34:21,430 Function execution success
+ERROR 2022-07-16 14:34:21,430 'ineuron_hackthon_companies' object has no attribute 'batch1'
+INFO 2022-07-16 14:34:53,927 Logging is enabled
+INFO 2022-07-16 14:34:53,928 Class is invoked
+INFO 2022-07-16 14:34:53,928 Class is invoked
+INFO 2022-07-16 14:34:53,929 Class is invoked
+INFO 2022-07-16 14:34:53,929 class is invoked
+INFO 2022-07-16 14:34:53,929 class is invoked
+INFO 2022-07-16 14:34:53,930 Class is invoked
+INFO 2022-07-16 14:34:53,930 Class is invoked
+INFO 2022-07-16 14:34:53,930 Class is invoked
+INFO 2022-07-16 14:34:53,930 Class is invoked
+INFO 2022-07-16 14:34:53,930 Class is invoked
+INFO 2022-07-16 14:34:53,930 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:53,930 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:53,930 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:34:53,930 Input values are added
+INFO 2022-07-16 14:34:53,931 Input values added
+INFO 2022-07-16 14:34:53,931 input values added
+INFO 2022-07-16 14:34:53,931 Input values added
+INFO 2022-07-16 14:34:53,931 Input values added
+INFO 2022-07-16 14:34:53,931 Input values added
+INFO 2022-07-16 14:34:53,931 Input values added
+INFO 2022-07-16 14:34:53,931 Function execution success
+INFO 2022-07-16 14:34:53,931 Function completed
+INFO 2022-07-16 14:34:53,931 Function completed
+INFO 2022-07-16 14:34:53,931 Function execution success
+INFO 2022-07-16 14:34:53,931 The new value isBig query table
+INFO 2022-07-16 14:34:53,932 function completed success
+INFO 2022-07-16 14:34:53,932 Function execution success
+INFO 2022-07-16 14:34:53,932 Function execution success
+INFO 2022-07-16 14:34:53,932 Function completed
+INFO 2022-07-16 14:34:53,932 Function completed
+INFO 2022-07-16 14:34:53,932 The number of courses in ineuron is121
+INFO 2022-07-16 14:34:53,932 Function execution success
+INFO 2022-07-16 14:34:53,932 Function execution success
+ERROR 2022-07-16 14:34:53,932 'ineuron_hackthon_companies' object has no attribute 'batch1'
+INFO 2022-07-16 14:35:33,909 Logging is enabled
+INFO 2022-07-16 14:35:33,909 Class is invoked
+INFO 2022-07-16 14:35:33,909 Class is invoked
+INFO 2022-07-16 14:35:33,910 Class is invoked
+INFO 2022-07-16 14:35:33,911 class is invoked
+INFO 2022-07-16 14:35:33,911 class is invoked
+INFO 2022-07-16 14:35:33,911 Class is invoked
+INFO 2022-07-16 14:35:33,911 Class is invoked
+INFO 2022-07-16 14:35:33,912 Class is invoked
+INFO 2022-07-16 14:35:33,912 Class is invoked
+INFO 2022-07-16 14:35:33,912 Class is invoked
+INFO 2022-07-16 14:35:33,912 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:33,912 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:33,912 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:33,912 Input values are added
+INFO 2022-07-16 14:35:33,912 Input values added
+INFO 2022-07-16 14:35:33,912 input values added
+INFO 2022-07-16 14:35:33,912 Input values added
+INFO 2022-07-16 14:35:33,913 Input values added
+INFO 2022-07-16 14:35:33,913 Input values added
+INFO 2022-07-16 14:35:33,913 Input values added
+INFO 2022-07-16 14:35:33,913 Function execution success
+INFO 2022-07-16 14:35:33,913 Function completed
+INFO 2022-07-16 14:35:33,913 Function completed
+INFO 2022-07-16 14:35:33,913 Function execution success
+INFO 2022-07-16 14:35:33,913 The new value isBig query table
+INFO 2022-07-16 14:35:33,913 function completed success
+INFO 2022-07-16 14:35:33,913 Function execution success
+INFO 2022-07-16 14:35:33,913 Function execution success
+INFO 2022-07-16 14:35:33,913 Function completed
+INFO 2022-07-16 14:35:33,914 Function completed
+INFO 2022-07-16 14:35:33,914 The number of courses in ineuron is121
+INFO 2022-07-16 14:35:33,914 Function execution success
+INFO 2022-07-16 14:35:33,914 Function execution success
+INFO 2022-07-16 14:35:33,914 Function execution success
+INFO 2022-07-16 14:35:33,914 Function execution success
+ERROR 2022-07-16 14:35:33,914 'ineuron_employees' object has no attribute 'batch1'
+INFO 2022-07-16 14:35:42,553 Logging is enabled
+INFO 2022-07-16 14:35:42,554 Class is invoked
+INFO 2022-07-16 14:35:42,554 Class is invoked
+INFO 2022-07-16 14:35:42,558 Class is invoked
+INFO 2022-07-16 14:35:42,558 class is invoked
+INFO 2022-07-16 14:35:42,558 class is invoked
+INFO 2022-07-16 14:35:42,558 Class is invoked
+INFO 2022-07-16 14:35:42,558 Class is invoked
+INFO 2022-07-16 14:35:42,559 Class is invoked
+INFO 2022-07-16 14:35:42,559 Class is invoked
+INFO 2022-07-16 14:35:42,559 Class is invoked
+INFO 2022-07-16 14:35:42,559 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:42,559 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:42,559 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:42,560 Input values are added
+INFO 2022-07-16 14:35:42,560 Input values added
+INFO 2022-07-16 14:35:42,560 input values added
+INFO 2022-07-16 14:35:42,560 Input values added
+INFO 2022-07-16 14:35:42,560 Input values added
+INFO 2022-07-16 14:35:42,560 Input values added
+INFO 2022-07-16 14:35:42,561 Input values added
+INFO 2022-07-16 14:35:42,561 Function execution success
+INFO 2022-07-16 14:35:42,561 Function completed
+INFO 2022-07-16 14:35:42,561 Function completed
+INFO 2022-07-16 14:35:42,562 Function execution success
+INFO 2022-07-16 14:35:42,562 The new value isBig query table
+INFO 2022-07-16 14:35:42,562 function completed success
+INFO 2022-07-16 14:35:42,562 Function execution success
+INFO 2022-07-16 14:35:42,562 Function execution success
+INFO 2022-07-16 14:35:42,563 Function completed
+INFO 2022-07-16 14:35:42,563 Function completed
+INFO 2022-07-16 14:35:42,563 The number of courses in ineuron is121
+INFO 2022-07-16 14:35:42,563 Function execution success
+INFO 2022-07-16 14:35:42,563 Function execution success
+INFO 2022-07-16 14:35:42,563 Function execution success
+INFO 2022-07-16 14:35:42,563 Function execution success
+ERROR 2022-07-16 14:35:42,564 'ineuron_employees' object has no attribute 'institution1'
+INFO 2022-07-16 14:35:57,318 Logging is enabled
+INFO 2022-07-16 14:35:57,318 Class is invoked
+INFO 2022-07-16 14:35:57,319 Class is invoked
+INFO 2022-07-16 14:35:57,320 Class is invoked
+INFO 2022-07-16 14:35:57,320 class is invoked
+INFO 2022-07-16 14:35:57,321 class is invoked
+INFO 2022-07-16 14:35:57,321 Class is invoked
+INFO 2022-07-16 14:35:57,321 Class is invoked
+INFO 2022-07-16 14:35:57,321 Class is invoked
+INFO 2022-07-16 14:35:57,321 Class is invoked
+INFO 2022-07-16 14:35:57,322 Class is invoked
+INFO 2022-07-16 14:35:57,322 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:57,322 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:57,322 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:35:57,322 Input values are added
+INFO 2022-07-16 14:35:57,323 Input values added
+INFO 2022-07-16 14:35:57,323 input values added
+INFO 2022-07-16 14:35:57,323 Input values added
+INFO 2022-07-16 14:35:57,323 Input values added
+INFO 2022-07-16 14:35:57,323 Input values added
+INFO 2022-07-16 14:35:57,323 Input values added
+INFO 2022-07-16 14:35:57,324 Function execution success
+INFO 2022-07-16 14:35:57,324 Function completed
+INFO 2022-07-16 14:35:57,324 Function completed
+INFO 2022-07-16 14:35:57,324 Function execution success
+INFO 2022-07-16 14:35:57,324 The new value isBig query table
+INFO 2022-07-16 14:35:57,325 function completed success
+INFO 2022-07-16 14:35:57,325 Function execution success
+INFO 2022-07-16 14:35:57,325 Function execution success
+INFO 2022-07-16 14:35:57,325 Function completed
+INFO 2022-07-16 14:35:57,325 Function completed
+INFO 2022-07-16 14:35:57,325 The number of courses in ineuron is121
+INFO 2022-07-16 14:35:57,325 Function execution success
+INFO 2022-07-16 14:35:57,326 Function execution success
+INFO 2022-07-16 14:35:57,326 Function execution success
+INFO 2022-07-16 14:35:57,326 Function execution success
+ERROR 2022-07-16 14:35:57,326 'ineuron_employees' object has no attribute 'company1'
+INFO 2022-07-16 14:36:43,469 Logging is enabled
+INFO 2022-07-16 14:36:43,469 Class is invoked
+INFO 2022-07-16 14:36:43,470 Class is invoked
+INFO 2022-07-16 14:36:43,471 Class is invoked
+INFO 2022-07-16 14:36:43,471 class is invoked
+INFO 2022-07-16 14:36:43,471 class is invoked
+INFO 2022-07-16 14:36:43,471 Class is invoked
+INFO 2022-07-16 14:36:43,471 Class is invoked
+INFO 2022-07-16 14:36:43,471 Class is invoked
+INFO 2022-07-16 14:36:43,471 Class is invoked
+INFO 2022-07-16 14:36:43,471 Class is invoked
+INFO 2022-07-16 14:36:43,471 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:36:43,472 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:36:43,472 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:36:43,472 Input values are added
+INFO 2022-07-16 14:36:43,472 Input values added
+INFO 2022-07-16 14:36:43,472 input values added
+INFO 2022-07-16 14:36:43,472 Input values added
+INFO 2022-07-16 14:36:43,472 Input values added
+INFO 2022-07-16 14:36:43,472 Input values added
+INFO 2022-07-16 14:36:43,472 Input values added
+INFO 2022-07-16 14:36:43,472 Function execution success
+INFO 2022-07-16 14:36:43,472 Function completed
+INFO 2022-07-16 14:36:43,473 Function completed
+INFO 2022-07-16 14:36:43,473 Function execution success
+INFO 2022-07-16 14:36:43,473 The new value isBig query table
+INFO 2022-07-16 14:36:43,473 function completed success
+INFO 2022-07-16 14:36:43,473 Function execution success
+INFO 2022-07-16 14:36:43,473 Function execution success
+INFO 2022-07-16 14:36:43,473 Function completed
+INFO 2022-07-16 14:36:43,473 Function completed
+INFO 2022-07-16 14:36:43,473 The number of courses in ineuron is121
+INFO 2022-07-16 14:36:43,473 Function execution success
+INFO 2022-07-16 14:36:43,473 Function execution success
+INFO 2022-07-16 14:36:43,473 Function execution success
+INFO 2022-07-16 14:36:43,474 Function execution success
+ERROR 2022-07-16 14:36:43,474 'ineuron_employees' object has no attribute 'institution1'
+INFO 2022-07-16 14:36:55,135 Logging is enabled
+INFO 2022-07-16 14:36:55,135 Class is invoked
+INFO 2022-07-16 14:36:55,135 Class is invoked
+INFO 2022-07-16 14:36:55,137 Class is invoked
+INFO 2022-07-16 14:36:55,139 class is invoked
+INFO 2022-07-16 14:36:55,140 class is invoked
+INFO 2022-07-16 14:36:55,141 Class is invoked
+INFO 2022-07-16 14:36:55,142 Class is invoked
+INFO 2022-07-16 14:36:55,142 Class is invoked
+INFO 2022-07-16 14:36:55,142 Class is invoked
+INFO 2022-07-16 14:36:55,143 Class is invoked
+INFO 2022-07-16 14:36:55,143 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:36:55,143 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:36:55,143 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:36:55,143 Input values are added
+INFO 2022-07-16 14:36:55,143 Input values added
+INFO 2022-07-16 14:36:55,144 input values added
+INFO 2022-07-16 14:36:55,144 Input values added
+INFO 2022-07-16 14:36:55,144 Input values added
+INFO 2022-07-16 14:36:55,144 Input values added
+INFO 2022-07-16 14:36:55,144 Input values added
+INFO 2022-07-16 14:36:55,144 Function execution success
+INFO 2022-07-16 14:36:55,145 Function completed
+INFO 2022-07-16 14:36:55,145 Function completed
+INFO 2022-07-16 14:36:55,145 Function execution success
+INFO 2022-07-16 14:36:55,145 The new value isBig query table
+INFO 2022-07-16 14:36:55,145 function completed success
+INFO 2022-07-16 14:36:55,146 Function execution success
+INFO 2022-07-16 14:36:55,146 Function execution success
+INFO 2022-07-16 14:36:55,146 Function completed
+INFO 2022-07-16 14:36:55,146 Function completed
+INFO 2022-07-16 14:36:55,146 The number of courses in ineuron is121
+INFO 2022-07-16 14:36:55,146 Function execution success
+INFO 2022-07-16 14:36:55,147 Function execution success
+INFO 2022-07-16 14:36:55,147 Function execution success
+INFO 2022-07-16 14:36:55,147 Function execution success
+INFO 2022-07-16 14:36:55,147 Function execution success
+ERROR 2022-07-16 14:36:55,147 'ineuron_employees' object has no attribute 'k'
+INFO 2022-07-16 14:37:26,252 Logging is enabled
+INFO 2022-07-16 14:37:26,252 Class is invoked
+INFO 2022-07-16 14:37:26,252 Class is invoked
+INFO 2022-07-16 14:37:26,254 Class is invoked
+INFO 2022-07-16 14:37:26,254 class is invoked
+INFO 2022-07-16 14:37:26,254 class is invoked
+INFO 2022-07-16 14:37:26,254 Class is invoked
+INFO 2022-07-16 14:37:26,254 Class is invoked
+INFO 2022-07-16 14:37:26,255 Class is invoked
+INFO 2022-07-16 14:37:26,255 Class is invoked
+INFO 2022-07-16 14:37:26,255 Class is invoked
+INFO 2022-07-16 14:37:26,255 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:37:26,255 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:37:26,255 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:37:26,255 Input values are added
+INFO 2022-07-16 14:37:26,256 Input values added
+INFO 2022-07-16 14:37:26,256 input values added
+INFO 2022-07-16 14:37:26,256 Input values added
+INFO 2022-07-16 14:37:26,256 Input values added
+INFO 2022-07-16 14:37:26,256 Input values added
+INFO 2022-07-16 14:37:26,256 Input values added
+INFO 2022-07-16 14:37:26,256 Function execution success
+INFO 2022-07-16 14:37:26,256 Function completed
+INFO 2022-07-16 14:37:26,256 Function completed
+INFO 2022-07-16 14:37:26,256 Function execution success
+INFO 2022-07-16 14:37:26,256 The new value isBig query table
+INFO 2022-07-16 14:37:26,256 function completed success
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function completed
+INFO 2022-07-16 14:37:26,257 Function completed
+INFO 2022-07-16 14:37:26,257 The number of courses in ineuron is121
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function execution success
+INFO 2022-07-16 14:37:26,257 Function execution success
+ERROR 2022-07-16 14:37:26,257 'ineuron_jobs' object has no attribute 'project1'
+INFO 2022-07-16 14:38:27,405 Logging is enabled
+INFO 2022-07-16 14:38:27,405 Class is invoked
+INFO 2022-07-16 14:38:27,406 Class is invoked
+INFO 2022-07-16 14:38:27,407 Class is invoked
+INFO 2022-07-16 14:38:27,407 class is invoked
+INFO 2022-07-16 14:38:27,407 class is invoked
+INFO 2022-07-16 14:38:27,407 Class is invoked
+INFO 2022-07-16 14:38:27,407 Class is invoked
+INFO 2022-07-16 14:38:27,408 Class is invoked
+INFO 2022-07-16 14:38:27,408 Class is invoked
+INFO 2022-07-16 14:38:27,408 Class is invoked
+INFO 2022-07-16 14:38:27,408 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:38:27,408 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:38:27,408 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:38:27,408 Input values are added
+INFO 2022-07-16 14:38:27,408 Input values added
+INFO 2022-07-16 14:38:27,408 input values added
+INFO 2022-07-16 14:38:27,408 Input values added
+INFO 2022-07-16 14:38:27,408 Input values added
+INFO 2022-07-16 14:38:27,409 Input values added
+INFO 2022-07-16 14:38:27,409 Input values added
+INFO 2022-07-16 14:38:27,409 Function execution success
+INFO 2022-07-16 14:38:27,409 Function completed
+INFO 2022-07-16 14:38:27,409 Function completed
+INFO 2022-07-16 14:38:27,409 Function execution success
+INFO 2022-07-16 14:38:27,409 The new value isBig query table
+INFO 2022-07-16 14:38:27,409 function completed success
+INFO 2022-07-16 14:38:27,409 Function execution success
+INFO 2022-07-16 14:38:27,409 Function execution success
+INFO 2022-07-16 14:38:27,409 Function completed
+INFO 2022-07-16 14:38:27,409 Function completed
+INFO 2022-07-16 14:38:27,410 The number of courses in ineuron is121
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:38:27,410 Function execution success
+INFO 2022-07-16 14:40:52,003 Logging is enabled
+INFO 2022-07-16 14:40:52,003 Class is invoked
+INFO 2022-07-16 14:40:52,004 Class is invoked
+INFO 2022-07-16 14:40:52,005 Class is invoked
+INFO 2022-07-16 14:40:52,005 class is invoked
+INFO 2022-07-16 14:40:52,005 class is invoked
+INFO 2022-07-16 14:40:52,006 Class is invoked
+INFO 2022-07-16 14:40:52,006 Class is invoked
+INFO 2022-07-16 14:40:52,006 Class is invoked
+INFO 2022-07-16 14:40:52,006 Class is invoked
+INFO 2022-07-16 14:40:52,006 Class is invoked
+INFO 2022-07-16 14:40:52,006 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:40:52,006 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:40:52,006 The input value is declared in the functionData science,Machine Learning and statistics
+INFO 2022-07-16 14:40:52,006 Input values are added
+INFO 2022-07-16 14:40:52,006 Input values added
+INFO 2022-07-16 14:40:52,006 input values added
+INFO 2022-07-16 14:40:52,007 Input values added
+INFO 2022-07-16 14:40:52,007 Input values added
+INFO 2022-07-16 14:40:52,007 Input values added
+INFO 2022-07-16 14:40:52,007 Input values added
+INFO 2022-07-16 14:40:52,007 Function execution success
+INFO 2022-07-16 14:40:52,007 Function completed
+INFO 2022-07-16 14:40:52,007 Function completed
+INFO 2022-07-16 14:40:52,007 Function execution success
+INFO 2022-07-16 14:40:52,007 The new value isBig query table
+INFO 2022-07-16 14:40:52,007 function completed success
+INFO 2022-07-16 14:40:52,007 Function execution success
+INFO 2022-07-16 14:40:52,007 Function execution success
+INFO 2022-07-16 14:40:52,008 Function completed
+INFO 2022-07-16 14:40:52,008 Function completed
+INFO 2022-07-16 14:40:52,008 The number of courses in ineuron is121
+INFO 2022-07-16 14:40:52,008 Function execution success
+INFO 2022-07-16 14:40:52,008 Function execution success
+INFO 2022-07-16 14:40:52,008 Function execution success
+INFO 2022-07-16 14:40:52,008 Function execution success
+INFO 2022-07-16 14:40:52,008 Function execution success
+INFO 2022-07-16 14:40:52,008 Function execution success
+INFO 2022-07-16 14:40:52,008 Function execution success
