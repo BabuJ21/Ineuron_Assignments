@@ -1,0 +1,27 @@
+INFO 2022-07-11 23:13:58,162 Entered into class
+INFO 2022-07-11 23:13:58,163 The input value is declared in the function[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-11 23:13:58,163 Dictionary keys function started
+INFO 2022-07-11 23:13:58,163 Dictionary keys function completed
+INFO 2022-07-11 23:13:58,163 Dictionary values function started
+INFO 2022-07-11 23:13:58,163 Dictionary values function completed
+INFO 2022-07-11 23:13:58,163 list extraction function invoked
+INFO 2022-07-11 23:13:58,164 operations function invoked and started executing
+INFO 2022-07-11 23:13:58,165 list basic operations completed
+INFO 2022-07-11 23:20:09,091 Entered into class
+INFO 2022-07-11 23:20:09,091 The input value is declared in the function[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-11 23:20:09,091 Dictionary keys function started
+INFO 2022-07-11 23:20:09,093 Dictionary keys function completed
+INFO 2022-07-11 23:20:09,093 Dictionary values function started
+INFO 2022-07-11 23:20:09,093 Dictionary values function completed
+INFO 2022-07-11 23:20:09,093 list extraction function invoked
+INFO 2022-07-11 23:20:09,094 operations function invoked and started executing
+INFO 2022-07-11 23:20:09,094 list basic operations completed
+INFO 2022-07-11 23:20:29,534 Entered into class
+INFO 2022-07-11 23:20:29,534 The input value is declared in the function[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-11 23:20:29,535 Dictionary keys function started
+INFO 2022-07-11 23:20:29,535 Dictionary keys function completed
+INFO 2022-07-11 23:20:29,535 Dictionary values function started
+INFO 2022-07-11 23:20:29,535 Dictionary values function completed
+INFO 2022-07-11 23:20:29,535 list extraction function invoked
+INFO 2022-07-11 23:20:29,535 operations function invoked and started executing
+INFO 2022-07-11 23:20:29,536 list basic operations completed

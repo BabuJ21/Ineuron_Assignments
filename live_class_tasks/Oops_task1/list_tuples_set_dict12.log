@@ -1,0 +1,20 @@
+INFO 2022-07-11 23:14:11,388 Entered into class
+INFO 2022-07-11 23:14:11,388 The input value is declared in the function[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+INFO 2022-07-11 23:14:11,388 List extracted successfully
+INFO 2022-07-11 23:14:11,388 Dictionary extracted successfully
+INFO 2022-07-11 23:14:11,388 tuples extracted successfully
+INFO 2022-07-11 23:14:11,389 Numeric dict data extracted successfully
+INFO 2022-07-11 23:14:11,389 summation of all Numeric data is 156
+INFO 2022-07-11 23:14:11,389 summation function completed
+INFO 2022-07-11 23:14:11,389 odd values are: 1
+INFO 2022-07-11 23:14:11,389 odd values are: 3
+INFO 2022-07-11 23:14:11,389 list odd values found
+INFO 2022-07-11 23:14:11,390 Occurrences of data function completed
+INFO 2022-07-11 23:14:11,390 No.of keys in dict element is: 5
+INFO 2022-07-11 23:14:11,390 Function completed
+INFO 2022-07-11 23:14:11,390 Funcction completed
+INFO 2022-07-11 23:14:11,390 alphanum function completed
+INFO 2022-07-11 23:14:11,390 The multiplication of all numeric value is: 908605071360000
+INFO 2022-07-11 23:14:11,390 Function completed
+INFO 2022-07-11 23:14:11,390 The final list is: [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'sudh', 'ineuron', 'kumar', 6, 8, 'k1', 'k2', 'k3', 3, 7, 'ineuron', 'data science']
+INFO 2022-07-11 23:14:11,390 Function completed
